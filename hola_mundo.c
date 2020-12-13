@@ -56,5 +56,5 @@ int main ()
     printf("\nlos no acietos son =\t%i", NOacerto);
     printf("\nBye, bye %c\n",letra);
     }
-return 0;
-
+    return 0;
+    
